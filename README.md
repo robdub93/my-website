@@ -2,12 +2,12 @@
 <h1>Biotechnology</h1>
 The purpose of this portfolio is to inform the reader on biotechnology. It is brief and sticks to the basics.
 <br>
-<br>
 <h3>Description of contents</h3>
 <ol>
-  <li>Page 1: </li>
+  <li>Page 1: Gives a brief introduction to biotechnology</li>
+  <li>Page 2: Shows the key areas and examples of biotechnology</li>
+  <li>Page 3: Displays modern techniques</li>
 </ol>
-<br>
 Technology used: HTML5
 <br>
 <br>
