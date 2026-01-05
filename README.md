@@ -20,4 +20,10 @@ To view the site locally visit: https://github.com/robdub93/Biotechnology---CR.g
 </ol>
 <br>
 Content sourced from Google AI
-
+<br>
+<h3>Reflection on what I learned during project</h3>
+<ul>
+  <li>How to use Github</li>
+  <li>How to use HTML</li>
+  <li>How to create websites in general</li>
+</ul>
